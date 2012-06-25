@@ -358,3 +358,22 @@ Other release files: http://nodejs.org/dist/v0.8.0/
 Website: http://nodejs.org/docs/v0.8.0/
 
 Documentation: http://nodejs.org/docs/v0.8.0/api/
+
+Shasums:
+
+```
+0003323c2af7c396273ba728faea9581baecb86f  node-v0.8.0-x86.msi
+b550e7ef0cae989081f72968049fed3e47d558db  node-v0.8.0.pkg
+af36d3724aec6fef7e2cf1a11b90e0a02ec31b67  node-v0.8.0.tar.gz
+3e11dc38ab607a7112226b8e2ee53c1510ab9230  node.exe
+4262e8bed432dd386abf866063feb07a42c71135  node.exp
+ca14db36491885f15ff3f1ad7f94676b23dd8202  node.lib
+2b3f7a90a95625e8447ae4fb6dcce488bb65d293  node.pdb
+d8e79283f9b814d2255891a5f19aaf9edc237f70  npm-1.1.32.tgz
+140d5c808a99dfd25a588c569455ca399913b289  npm-1.1.32.zip
+54c314adec6610bbad1a116444f04bd0ab911792  x64/node-v0.8.0-x64.msi
+bf083bb5bf142abb431e28545002b3a4ddff8e78  x64/node.exe
+549b30c76e742efaf9b762aa8fc0b1fd27c7e496  x64/node.exp
+7b5b5d8d7ea7f539c758b1614126bc935a95a90d  x64/node.lib
+49624d27c874dfa9acba25506b131ac659b42cf7  x64/node.pdb
+```
